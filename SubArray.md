@@ -1,6 +1,6 @@
 #SubArray
 
-##1. Maximum Size Subarray Sum Equals k##
+##1. Maximum Size Subarray Sum Equals k
 
 **Description:**
 
@@ -51,7 +51,7 @@ subarray的相关题目很多，这题最重要的是linear时间linear空间解
 ```
  
 
-##2. Continuous Subarray Sum##
+##2. Continuous Subarray Sum
 
 **Idea:**
 
