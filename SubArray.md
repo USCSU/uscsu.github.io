@@ -1,4 +1,5 @@
 #SubArray
+
 ##1. Maximum Size Subarray Sum Equals k##
 
 **Description:**
@@ -50,7 +51,8 @@ subarray的相关题目很多，这题最重要的是linear时间linear空间解
 ```
  
 
-##2. Continuous Subarray Sum
+##2. Continuous Subarray Sum##
+
 **Idea:**
 
 这题跟 [第一题]（Maximum Size Subarray Sum Equals k） 很像，唯一的不同就是这道题要求得出的和是k的倍数，那么存入哈希的仅仅是
