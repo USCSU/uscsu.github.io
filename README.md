@@ -1,5 +1,2 @@
 # uscsu.github.io
-```java
-public static void main(String() args){
-}
-```
+[test](https://gist.github.com/USCSU/c644f1e287226205ccbb3f6cc1285a60)
